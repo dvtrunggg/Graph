@@ -1,0 +1,210 @@
+﻿No.,Country,Area,Cases,Deaths,Recovered
+1,USA,America,886709,50243,85922
+2,Spain,Europe,213024,22157,89250
+3,Italy,Europe,189973,25549,57576
+4,France,Europe,158183,21856,42088
+5,Germany,Europe,153129,5575,106800
+6,UK,Europe,138078,18738,
+7,Turkey,Asia,101790,2491,18491
+8,Iran,Asia,87026,5481,64843
+9,China,Asia,82804,4632,77257
+10,Russia,Europe,62773,555,4891
+11,Brazil,America,50036,3331,26573
+12,Belgium,Europe,42797,6490,9800
+13,Canada,America,42110,2147,14761
+14,Netherlands,Europe,35729,4177,
+15,Switzerland,Europe,28496,1551,20600
+16,India,Asia,23502,722,5012
+17,Portugal,Europe,22353,820,1201
+18,Peru,America,20914,572,7422
+19,Ireland,Europe,17607,794,9233
+20,Sweden,Europe,16755,2021,550
+21,Austria,Europe,15002,522,11694
+22,Israel,Asia,14882,193,5685
+23,Saudi Arabia,Asia,13930,121,1925
+24,Japan,Asia,12368,328,1494
+25,Chile,America,11812,168,5804
+26,Mexico,America,11633,1069,2627
+27,Ecuador,America,11183,560,1328
+28,Singapore,Asia,11178,12,924
+29,Pakistan,Asia,11155,237,2527
+30,S. Korea,Asia,10708,240,8501
+31,Poland,Europe,10511,454,1944
+32,Romania,Europe,10096,545,2478
+33,UAE,Asia,8756,56,1637
+34,Denmark,Europe,8073,394,5384
+35,Belarus,Europe,8022,60,938
+36,Indonesia,Asia,7775,647,960
+37,Qatar,Asia,7764,10,750
+38,Ukraine,Europe,7647,193,601
+39,Norway,Europe,7401,194,32
+40,Serbia,Europe,7276,139,1063
+41,Czechia,Europe,7188,213,2186
+42,Philippines,Asia,6981,462,722
+43,Australia,Oceania,6675,78,5129
+44,Malaysia,Asia,5603,95,3542
+45,Dominican Republic,America,5543,265,674
+46,Panama,America,5166,146,271
+47,Colombia,America,4561,215,927
+48,Finland,Europe,4284,172,2000
+49,Bangladesh,Asia,4186,127,108
+50,South Africa,Africa,3953,75,1473
+51,Egypt,Africa,3891,287,1004
+52,Luxembourg,Europe,3665,83,728
+53,Morocco,Africa,3568,155,456
+54,Argentina,America,3435,165,919
+55,Algeria,Africa,3007,407,1355
+56,Moldova,Europe,2926,80,661
+57,Thailand,Asia,2854,50,2490
+58,Greece,Europe,2463,127,577
+59,Kuwait,Asia,2399,14,498
+60,Hungary,Europe,2383,250,401
+61,Kazakhstan,Asia,2334,22,560
+62,Bahrain,Asia,2217,8,1082
+63,Croatia,Europe,1981,50,883
+64,Iceland,Europe,1789,10,1509
+65,Uzbekistan,Asia,1778,7,563
+66,Oman,Asia,1716,9,307
+67,Iraq,Asia,1677,83,1171
+68,Estonia,Europe,1592,45,192
+69,Azerbaijan,Asia,1548,20,948
+70,Armenia,Asia,1523,24,659
+71,New Zealand,Oceania,1456,17,1095
+72,Bosnia and Herzegovina,Europe,1413,54,485
+73,Lithuania,Europe,1410,40,430
+74,Slovenia,Europe,1366,79,211
+75,Cameroon,Africa,1334,43,668
+76,Slovakia,Europe,1325,15,288
+77,North Macedonia,Europe,1300,56,301
+78,Afghanistan,Asia,1279,42,179
+79,Cuba,America,1235,43,365
+80,Bulgaria,Europe,1171,52,193
+81,Ghana,Africa,1154,9,99
+82,Hong Kong,Asia,1036,4,699
+83,Ivory Coast,Africa,1004,14,359
+84,Djibouti,Africa,986,2,252
+85,Nigeria,Africa,981,31,197
+86,Tunisia,Africa,918,38,190
+87,Guinea,Africa,862,6,170
+88,Cyprus,Asia,795,13,98
+89,Latvia,Europe,778,11,133
+90,Andorra,Europe,723,37,333
+91,Bolivia,America,703,43,44
+92,Lebanon,Asia,688,22,140
+93,Costa Rica,America,686,6,196
+94,Niger,Africa,671,24,256
+95,Albania,Europe,663,27,385
+96,Kyrgyzstan,Asia,656,8,322
+97,Burkina Faso,Africa,616,41,410
+98,Honduras,America,562,47,50
+99,Uruguay,America,557,12,354
+100,Channel Islands,Europe,521,29,295
+101,San Marino,Europe,501,40,63
+102,Palestine,Asia,480,4,92
+103,Senegal,Africa,479,6,257
+104,Malta,Europe,445,3,204
+105,Jordan,Asia,437,7,318
+106,Georgia,Asia,431,5,114
+107,Taiwan,Asia,428,6,264
+108,Reunion,Africa,412,,238
+109,DRC,Africa,394,25,48
+110,Guatemala,America,384,11,30
+111,Sri Lanka,Asia,373,7,107
+112,Mauritius,Africa,331,9,266
+113,Somalia,Africa,328,16,8
+114,Mayotte,Africa,326,4,125
+115,Kenya,Africa,320,14,89
+116,Montenegro,Europe,316,5,123
+117,Venezuela,America,311,10,126
+118,Mali,Africa,309,21,77
+119,Isle of Man,Europe,307,16,221
+120,Tanzania,Africa,284,10,11
+121,Vietnam,Asia,268,,225
+122,El Salvador,America,261,8,67
+123,Jamaica,America,257,6,28
+124,Paraguay,America,220,9,70
+125,Faeroe Islands,Europe,187,,178
+126,Congo,Africa,186,6,16
+127,Sudan,Africa,174,16,14
+128,Martinique,America,170,14,77
+129,Gabon,Africa,167,2,24
+130,Rwanda,Africa,154,,87
+131,Guadeloupe,America,149,12,82
+132,Myanmar,Asia,139,5,9
+133,Brunei,Asia,138,1,119
+134,Gibraltar,Europe,133,,129
+135,Cambodia,Asia,122,,110
+136,Madagascar,Africa,121,,58
+137,Ethiopia,Africa,116,3,21
+138,Trinidad and Tobago,America,115,8,48
+139,Maldives,Asia,108,,16
+140,French Guiana,America,107,1,84
+141,Liberia,Africa,101,8,20
+142,Aruba,America,100,2,68
+143,Bermuda,America,99,5,39
+144,Monaco,Europe,94,4,35
+145,Togo,Africa,88,6,59
+146,Equatorial Guinea,Africa,84,1,7
+147,Cabo Verde,Africa,82,1,1
+148,Liechtenstein,Europe,81,1,55
+149,Barbados,America,76,6,30
+150,Zambia,Africa,76,3,37
+151,Uganda,Africa,74,,46
+152,Bahamas,America,72,11,14
+153,Haiti,America,72,5,2
+154,Guyana,America,70,7,12
+155,Cayman Islands,America,66,1,7
+156,Sierra Leone,Africa,64,1,10
+157,Libya,Africa,60,2,15
+158,French Polynesia,Oceania,57,,36
+159,Benin,Africa,54,1,27
+160,Guinea-Bissau,Africa,50,,3
+161,Nepal,Asia,48,,10
+162,Mozambique,Africa,46,,12
+163,Macao,Asia,45,,27
+164,Syria,Asia,42,3,6
+165,Eritrea,Africa,39,,6
+166,Saint Martin,America,38,2,20
+167,Mongolia,Asia,36,,9
+168,Malawi,Africa,33,3,3
+169,Chad,Africa,33,,8
+170,Eswatini,Africa,31,1,8
+171,Zimbabwe,Africa,29,4,2
+172,Angola,Africa,25,2,6
+173,Antigua and Barbuda,America,24,3,10
+174,Timor-Leste,Asia,23,,1
+175,Botswana,Africa,22,1,
+176,Laos,Asia,19,,4
+177,Belize,America,18,2,5
+178,Fiji,Oceania,18,,8
+179,New Caledonia,Oceania,18,,17
+180,CAR,Africa,16,,10
+181,Dominica,America,16,,9
+182,Namibia,Africa,16,,7
+183,Grenada,America,15,,7
+184,Saint Kitts and Nevis,America,15,,1
+185,Saint Lucia,America,15,,15
+186,Curacao,America,14,1,11
+187,St. Vincent Grenadines,America,14,,5
+188,Falkland Islands,America,12,,11
+189,Nicaragua,America,11,3,7
+190,Burundi,Africa,11,1,4
+191,Turks and Caicos,America,11,1,4
+192,Greenland,America,11,,11
+193,Montserrat,America,11,,2
+194,Seychelles,Africa,11,,6
+195,Gambia,Africa,10,1,2
+196,Suriname,America,10,1,6
+197,Vatican City,Europe,9,,2
+198,Papua New Guinea,Oceania,8,,
+199,Mauritania,Africa,7,1,6
+200,Bhutan,Asia,7,,3
+201,St. Barth,America,6,,6
+202,Western Sahara,Africa,6,,5
+203,British Virgin Islands,America,5,1,3
+204,Caribbean Netherlands,America,5,,
+205,South Sudan,Africa,5,,
+206,Sao Tome and Principe,Africa,4,,
+207,Anguilla,America,3,,1
+208,Saint Pierre Miquelon,America,1,,
+209,Yemen,Asia,1,,1
